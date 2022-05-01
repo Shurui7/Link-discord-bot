@@ -4,10 +4,10 @@ Uses discord.py
 
 How to setup?
 
-Go to the "core.py"
+1.Go to the "core.py"
 
-Then insert your token
+2.Then insert your token
 
-Start it
+3.Start it
 
-Now it works perfectly 😄
+4.Now it works perfectly 😄
